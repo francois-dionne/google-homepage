@@ -1,1 +1,1 @@
-This is my Google homepage project from The Odin Project Foundations Course.   
+This is my Google homepage project (french version) from The Odin Project Foundations Course.   
